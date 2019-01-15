@@ -9,5 +9,6 @@
 	"devDependencies": {
 		"@babel/core": "^7.1.2",
 		"@babel/preset-env": "^7.1.0"
-	}
+	},
+	"gitHead": "a2e91f76a1d937d95e93cf50f18e1a91046d490e"
 }
