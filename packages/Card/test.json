@@ -1,0 +1,95 @@
+{
+    "detail_schema": "", 
+    "group_source": 3, 
+    "label": "广告", 
+    "large_image_list": [
+      {
+        "day_mode": 0, 
+        "height": 720, 
+        "uri": "large/web.business.image/201805295d0dd957f6edff2d455f96cd", 
+        "url": "http://sf1-ttcdn-tos.pstatp.com/img/web.business.image/201805295d0dd957f6edff2d455f96cd~640x0.image", 
+        "url_list": [
+          {
+            "url": "http://sf1-ttcdn-tos.pstatp.com/img/web.business.image/201805295d0dd957f6edff2d455f96cd~640x0.image"
+          }, 
+          {
+            "url": "http://sf3-ttcdn-tos.pstatp.com/img/web.business.image/201805295d0dd957f6edff2d455f96cd~640x0.image"
+          }, 
+          {
+            "url": "http://sf6-ttcdn-tos.pstatp.com/img/web.business.image/201805295d0dd957f6edff2d455f96cd~640x0.image"
+          }
+        ], 
+        "width": 1280
+      }
+    ], 
+    "raw_ad_data": {
+      "button_style": 2, 
+      "button_text": "立即预约", 
+      "dynamic_infos": {
+        "3": {
+          "data": {
+            "button_list": {
+              "form": {
+                "button_text": "立即预约", 
+                "button_type": "form", 
+                "form_height": 664, 
+                "form_url": "https://ad.toutiao.com/tetris/page/64002439643/?ad_id=1601787854177304&cid=1601788998881336", 
+                "form_width": 540
+              }, 
+              "web": {
+                "button_text": "查看详情", 
+                "button_type": "web"
+              }
+            }, 
+            "id": "1601788998881336", 
+            "image_url": "http://sf3-ttcdn-tos.pstatp.com/obj/web.business.image/201805175d0d402aa659260b4f0b8d5c", 
+            "source": "试学教育", 
+            "title": "国际MBA本地班来袭，心动了，你了解吗？", 
+            "web_title": "试学教育", 
+            "web_url": "https://ad.toutiao.com/tetris/page/1601781837667331/?ad_id=1601787854177304&cid=1601788998881336"
+          }, 
+          "data_type": "form", 
+          "meta": {
+            "show_seconds": 0
+          }, 
+          "style_id": "12", 
+          "template_url": "https://sf1-ttcdn-tos.pstatp.com/obj/ad-site-adstyle-public/asdlcf5eeed0ff75b2fb71c64b66f75f7a4f6.xml", 
+          "type": "native"
+        }
+      }, 
+      "effective_play_time": 0, 
+      "effective_play_track_url_list": [], 
+      "expire_seconds": 600, 
+      "form_height": 664, 
+      "form_url": "https://ad.toutiao.com/tetris/page/64002439643/?ad_id=1601787854177304&cid=1601788998881336", 
+      "form_width": 540, 
+      "id": 1601788998881336, 
+      "label_pos": 1, 
+      "play_track_url_list": [], 
+      "playover_track_url_list": [], 
+      "show_type": 2, 
+      "tab_ad_type": 1, 
+      "type": "form", 
+      "web_title": "试学教育", 
+      "web_url": "https://ad.toutiao.com/tetris/page/1601781837667331/?ad_id=1601787854177304&cid=1601788998881336"
+    }, 
+    "share": {
+      "share_desc": "国际MBA本地班来袭，心动了，你了解吗？", 
+      "share_title": "国际MBA本地班来袭，心动了，你了解吗？", 
+      "share_url": "https://ad.toutiao.com/tetris/page/1601781837667331/", 
+      "share_weibo_desc": "国际MBA本地班来袭，心动了，你了解吗？"
+    }, 
+    "status": {
+      "allow_dislike": true, 
+      "allow_share": true
+    }, 
+    "thumb_image_list": null, 
+    "title": "国际MBA本地班来袭，心动了，你了解吗？", 
+    "user": {
+      "info": {
+        "avatar_url": "http://sf3-ttcdn-tos.pstatp.com/obj/web.business.image/201805175d0d402aa659260b4f0b8d5c", 
+        "desc": "试学教育", 
+        "name": "试学教育"
+      }
+    }
+  }
